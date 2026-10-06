@@ -1,0 +1,2 @@
+items,items_per_task,tasks_per_version,versions,respondents,initial_d_score,final_d_score,d_score_gain,min_item_exposure,max_item_exposure,target_item_exposure,min_pair_exposure,max_pair_exposure,target_pair_exposure,connected
+20,4,12,20,1000,57.580924232940404,57.79482725637831,0.2139030234379078,48,48,48.0,5,10,7.578947368421052,True
